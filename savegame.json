@@ -1,0 +1,5817 @@
+{
+  "day": 27,
+  "phase": "night",
+  "timer": -0.000999999999830234,
+  "season_idx": 0,
+  "season": "xuân",
+  "res": {
+    "wood": 160,
+    "stone": 160,
+    "food": 80,
+    "copper": 25,
+    "iron": 41,
+    "silver": 40,
+    "gold": 30,
+    "mana": 0,
+    "runestone": 0,
+    "obsidian": 0,
+    "magma_core": 0,
+    "sulfur": 0,
+    "ice_crystal": 0,
+    "frozen_meat": 0,
+    "soul_essence": 0,
+    "bone": 4,
+    "ectoplasm": 0,
+    "fruit": 0,
+    "herb": 0
+  },
+  "morale": 90.0,
+  "researched": [
+    "skill_xp",
+    "armor_basic",
+    "armor_adv",
+    "animal_bond",
+    "bio_speed",
+    "mine_eff",
+    "bio_hp"
+  ],
+  "player": {
+    "x": 2064.0766696759483,
+    "y": 1394.7085815822998,
+    "hp": 120.0,
+    "max_hp": 120.0,
+    "weapon": "pistol",
+    "owned": {
+      "pistol": 1
+    }
+  },
+  "buildings": [
+    {
+      "kind": "core",
+      "c": 64,
+      "r": 44,
+      "hp": 400,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {}
+    },
+    {
+      "kind": "wall",
+      "c": 20,
+      "r": 20,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 21,
+      "r": 20,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 22,
+      "r": 20,
+      "hp": 60,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 23,
+      "r": 20,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 24,
+      "r": 20,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 20,
+      "r": 24,
+      "hp": 96,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 21,
+      "r": 24,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 22,
+      "r": 24,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 23,
+      "r": 24,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 24,
+      "r": 24,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 20,
+      "r": 22,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 20,
+      "r": 23,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 24,
+      "r": 21,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 24,
+      "r": 22,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 24,
+      "r": 23,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "turret",
+      "c": 19,
+      "r": 22,
+      "hp": 80,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 8,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "turret",
+      "c": 25,
+      "r": 22,
+      "hp": 74,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 8,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 106,
+      "r": 63,
+      "hp": 6,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 103,
+      "r": 67,
+      "hp": 107,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 104,
+      "r": 67,
+      "hp": 113,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 105,
+      "r": 67,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 106,
+      "r": 67,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 107,
+      "r": 67,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 103,
+      "r": 66,
+      "hp": 25,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 107,
+      "r": 64,
+      "hp": 109,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 107,
+      "r": 65,
+      "hp": 72,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 107,
+      "r": 66,
+      "hp": 107,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "turret",
+      "c": 102,
+      "r": 65,
+      "hp": 47,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 8,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "turret",
+      "c": 108,
+      "r": 65,
+      "hp": 80,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 8,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 103,
+      "r": 20,
+      "hp": 102,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 104,
+      "r": 20,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 105,
+      "r": 20,
+      "hp": 102,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 106,
+      "r": 20,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 107,
+      "r": 20,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 103,
+      "r": 22,
+      "hp": 102,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 107,
+      "r": 21,
+      "hp": 112,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 107,
+      "r": 22,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 107,
+      "r": 23,
+      "hp": 103,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "turret",
+      "c": 102,
+      "r": 22,
+      "hp": 56,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 8,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "turret",
+      "c": 108,
+      "r": 22,
+      "hp": 72,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 8,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 60,
+      "r": 77,
+      "hp": 112,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 64,
+      "r": 75,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 65,
+      "r": 13,
+      "hp": 111,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 24,
+      "r": 19,
+      "hp": 78,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 105,
+      "r": 64,
+      "hp": 53,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 103,
+      "r": 68,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 107,
+      "r": 68,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 20,
+      "r": 68,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 24,
+      "r": 68,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "wall",
+      "c": 24,
+      "r": 66,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4
+      }
+    },
+    {
+      "kind": "house",
+      "c": 63,
+      "r": 43,
+      "hp": 80,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10
+      }
+    },
+    {
+      "kind": "house",
+      "c": 65,
+      "r": 43,
+      "hp": 80,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10
+      }
+    },
+    {
+      "kind": "turret_minigun",
+      "c": 55,
+      "r": 41,
+      "hp": 130.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14,
+        "iron": 10,
+        "copper": 8
+      }
+    },
+    {
+      "kind": "turret_minigun",
+      "c": 55,
+      "r": 42,
+      "hp": 130.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14,
+        "iron": 10,
+        "copper": 8
+      }
+    },
+    {
+      "kind": "turret_rapid",
+      "c": 68,
+      "r": 40,
+      "hp": 100.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14
+      }
+    },
+    {
+      "kind": "turret_rapid",
+      "c": 68,
+      "r": 39,
+      "hp": 100.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14
+      }
+    },
+    {
+      "kind": "turret_rapid",
+      "c": 68,
+      "r": 48,
+      "hp": 100.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14
+      }
+    },
+    {
+      "kind": "turret_rapid",
+      "c": 57,
+      "r": 49,
+      "hp": 100.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14
+      }
+    },
+    {
+      "kind": "turret_rapid",
+      "c": 56,
+      "r": 49,
+      "hp": 100.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14
+      }
+    },
+    {
+      "kind": "turret_rapid",
+      "c": 67,
+      "r": 48,
+      "hp": 100.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14
+      }
+    },
+    {
+      "kind": "house_5",
+      "c": 65,
+      "r": 45,
+      "hp": 230.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 72,
+        "stone": 43,
+        "copper": 2,
+        "iron": 10,
+        "silver": 2
+      }
+    },
+    {
+      "kind": "sawmill",
+      "c": 53,
+      "r": 46,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "quarry",
+      "c": 53,
+      "r": 39,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 12,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "quarry",
+      "c": 52,
+      "r": 38,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 12,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "house",
+      "c": 63,
+      "r": 45,
+      "hp": 80,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10
+      }
+    },
+    {
+      "kind": "turret_rapid",
+      "c": 67,
+      "r": 39,
+      "hp": 100.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14
+      }
+    },
+    {
+      "kind": "turret_rapid",
+      "c": 68,
+      "r": 47,
+      "hp": 100.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 55,
+      "r": 50,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 55,
+      "r": 49,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 56,
+      "r": 50,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "quarry",
+      "c": 59,
+      "r": 53,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 12,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "quarry",
+      "c": 67,
+      "r": 34,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 12,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "stone_store",
+      "c": 63,
+      "r": 41,
+      "hp": 140,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 12,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "turret_minigun",
+      "c": 56,
+      "r": 48,
+      "hp": 130.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14,
+        "iron": 10,
+        "copper": 8
+      }
+    },
+    {
+      "kind": "turret_minigun",
+      "c": 56,
+      "r": 40,
+      "hp": 130.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14,
+        "iron": 10,
+        "copper": 8
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 55,
+      "r": 39,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 55,
+      "r": 40,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 54,
+      "r": 41,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 54,
+      "r": 42,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 54,
+      "r": 43,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 55,
+      "r": 48,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "wood_store",
+      "c": 65,
+      "r": 41,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 55,
+      "r": 47,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 55,
+      "r": 46,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 69,
+      "r": 40,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "house",
+      "c": 62,
+      "r": 43,
+      "hp": 80,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10
+      }
+    },
+    {
+      "kind": "house",
+      "c": 62,
+      "r": 45,
+      "hp": 80,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10
+      }
+    },
+    {
+      "kind": "house",
+      "c": 61,
+      "r": 45,
+      "hp": 80,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10
+      }
+    },
+    {
+      "kind": "house",
+      "c": 61,
+      "r": 43,
+      "hp": 80,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 69,
+      "r": 41,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 69,
+      "r": 42,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 69,
+      "r": 43,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 69,
+      "r": 45,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 69,
+      "r": 46,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 69,
+      "r": 47,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 66,
+      "r": 49,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 65,
+      "r": 49,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 63,
+      "r": 49,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 62,
+      "r": 49,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 57,
+      "r": 50,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 58,
+      "r": 50,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 59,
+      "r": 50,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 60,
+      "r": 50,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "iron_wall",
+      "c": 61,
+      "r": 50,
+      "hp": 550,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 10,
+        "iron": 8
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 55,
+      "r": 45,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 66,
+      "r": 38,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 65,
+      "r": 38,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 63,
+      "r": 38,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 62,
+      "r": 38,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 63,
+      "r": 50,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 65,
+      "r": 50,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "turret_shock",
+      "c": 61,
+      "r": 49,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "iron": 6,
+        "copper": 10,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 61,
+      "r": 39,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 60,
+      "r": 39,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 59,
+      "r": 39,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 58,
+      "r": 40,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 57,
+      "r": 40,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 59,
+      "r": 45,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 63,
+      "r": 46,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 62,
+      "r": 46,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 63,
+      "r": 47,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 63,
+      "r": 48,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 62,
+      "r": 47,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 62,
+      "r": 48,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 61,
+      "r": 46,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 61,
+      "r": 47,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 61,
+      "r": 48,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 60,
+      "r": 45,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 60,
+      "r": 46,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 60,
+      "r": 47,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 60,
+      "r": 48,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 59,
+      "r": 46,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 58,
+      "r": 46,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 57,
+      "r": 46,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 57,
+      "r": 47,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 57,
+      "r": 48,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 58,
+      "r": 48,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 60,
+      "r": 43,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 59,
+      "r": 43,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 58,
+      "r": 43,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 57,
+      "r": 43,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 56,
+      "r": 43,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 55,
+      "r": 43,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 56,
+      "r": 42,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 57,
+      "r": 42,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 58,
+      "r": 42,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 59,
+      "r": 42,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 59,
+      "r": 41,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 60,
+      "r": 42,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 60,
+      "r": 41,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 61,
+      "r": 42,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 62,
+      "r": 42,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 59,
+      "r": 48,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 59,
+      "r": 47,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 58,
+      "r": 47,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 61,
+      "r": 41,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 62,
+      "r": 41,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 63,
+      "r": 39,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 58,
+      "r": 45,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 57,
+      "r": 45,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 66,
+      "r": 47,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 67,
+      "r": 47,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 65,
+      "r": 47,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 67,
+      "r": 46,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 66,
+      "r": 46,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 65,
+      "r": 46,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 66,
+      "r": 45,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 67,
+      "r": 45,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 65,
+      "r": 42,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 66,
+      "r": 43,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 66,
+      "r": 42,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 67,
+      "r": 43,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 67,
+      "r": 42,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 67,
+      "r": 41,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 67,
+      "r": 40,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 66,
+      "r": 41,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 66,
+      "r": 40,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 70,
+      "r": 45,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 70,
+      "r": 43,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 53,
+      "r": 45,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 53,
+      "r": 43,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 65,
+      "r": 37,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 63,
+      "r": 37,
+      "hp": 320,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 67,
+      "r": 38,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 68,
+      "r": 38,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 69,
+      "r": 38,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 69,
+      "r": 39,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 66,
+      "r": 39,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 65,
+      "r": 39,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "floor",
+      "c": 63,
+      "r": 42,
+      "hp": 40,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "stone": 2
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 67,
+      "r": 49,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 68,
+      "r": 49,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 69,
+      "r": 48,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 69,
+      "r": 49,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "wood_store",
+      "c": 63,
+      "r": 40,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14
+      }
+    },
+    {
+      "kind": "stone_store",
+      "c": 65,
+      "r": 40,
+      "hp": 140,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 12,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "turret_minigun",
+      "c": 56,
+      "r": 45,
+      "hp": 130,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14,
+        "iron": 10,
+        "copper": 8
+      }
+    },
+    {
+      "kind": "turret_rapid",
+      "c": 62,
+      "r": 39,
+      "hp": 100.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14
+      }
+    },
+    {
+      "kind": "turret_minigun",
+      "c": 68,
+      "r": 43,
+      "hp": 130.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14,
+        "iron": 10,
+        "copper": 8
+      }
+    },
+    {
+      "kind": "turret_rapid",
+      "c": 65,
+      "r": 48,
+      "hp": 100.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 14
+      }
+    },
+    {
+      "kind": "farm",
+      "c": 56,
+      "r": 46,
+      "hp": 60,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 1.0,
+      "spent": {
+        "wood": 12
+      }
+    },
+    {
+      "kind": "farm",
+      "c": 56,
+      "r": 47,
+      "hp": 60,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 1.0,
+      "spent": {
+        "wood": 12
+      }
+    },
+    {
+      "kind": "stone_wall",
+      "c": 54,
+      "r": 45,
+      "hp": 320.0,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 4,
+        "stone": 6
+      }
+    },
+    {
+      "kind": "silver_store",
+      "c": 59,
+      "r": 40,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 16,
+        "stone": 8,
+        "copper": 2
+      }
+    },
+    {
+      "kind": "gold_store",
+      "c": 60,
+      "r": 40,
+      "hp": 130,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 18,
+        "stone": 10,
+        "iron": 2
+      }
+    },
+    {
+      "kind": "iron_store",
+      "c": 61,
+      "r": 40,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 8
+      }
+    },
+    {
+      "kind": "food_store",
+      "c": 66,
+      "r": 48,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14
+      }
+    },
+    {
+      "kind": "copper_mine",
+      "c": 73,
+      "r": 36,
+      "hp": 110,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 8
+      }
+    },
+    {
+      "kind": "copper_mine",
+      "c": 82,
+      "r": 36,
+      "hp": 110,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 8
+      }
+    },
+    {
+      "kind": "copper_mine",
+      "c": 74,
+      "r": 54,
+      "hp": 110,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "stone": 8
+      }
+    },
+    {
+      "kind": "gold_mine",
+      "c": 62,
+      "r": 58,
+      "hp": 140,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 20,
+        "stone": 14,
+        "silver": 2
+      }
+    },
+    {
+      "kind": "sawmill",
+      "c": 52,
+      "r": 43,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "sawmill",
+      "c": 50,
+      "r": 46,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "sawmill",
+      "c": 50,
+      "r": 41,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "sawmill",
+      "c": 53,
+      "r": 38,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "sawmill",
+      "c": 73,
+      "r": 43,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "turret_flame",
+      "c": 68,
+      "r": 45,
+      "hp": 110,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10,
+        "stone": 8,
+        "copper": 4
+      }
+    },
+    {
+      "kind": "iron_mine",
+      "c": 83,
+      "r": 47,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 16,
+        "stone": 10,
+        "copper": 2
+      }
+    },
+    {
+      "kind": "iron_mine",
+      "c": 49,
+      "r": 57,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 16,
+        "stone": 10,
+        "copper": 2
+      }
+    },
+    {
+      "kind": "iron_mine",
+      "c": 40,
+      "r": 46,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 16,
+        "stone": 10,
+        "copper": 2
+      }
+    },
+    {
+      "kind": "silver_mine",
+      "c": 75,
+      "r": 43,
+      "hp": 130,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 18,
+        "stone": 12,
+        "iron": 3
+      }
+    },
+    {
+      "kind": "silver_mine",
+      "c": 76,
+      "r": 37,
+      "hp": 130,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 18,
+        "stone": 12,
+        "iron": 3
+      }
+    },
+    {
+      "kind": "silver_mine",
+      "c": 68,
+      "r": 36,
+      "hp": 130,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 18,
+        "stone": 12,
+        "iron": 3
+      }
+    },
+    {
+      "kind": "silver_mine",
+      "c": 65,
+      "r": 35,
+      "hp": 130,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 18,
+        "stone": 12,
+        "iron": 3
+      }
+    },
+    {
+      "kind": "silver_mine",
+      "c": 68,
+      "r": 32,
+      "hp": 130,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 18,
+        "stone": 12,
+        "iron": 3
+      }
+    },
+    {
+      "kind": "silver_mine",
+      "c": 53,
+      "r": 40,
+      "hp": 130,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 18,
+        "stone": 12,
+        "iron": 3
+      }
+    },
+    {
+      "kind": "research",
+      "c": 56,
+      "r": 41,
+      "hp": 140,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 20,
+        "stone": 16,
+        "copper": 4
+      }
+    },
+    {
+      "kind": "trainer",
+      "c": 58,
+      "r": 49,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 15,
+        "stone": 12
+      }
+    },
+    {
+      "kind": "armory",
+      "c": 68,
+      "r": 46,
+      "hp": 120,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 15,
+        "stone": 10
+      }
+    },
+    {
+      "kind": "sawmill",
+      "c": 70,
+      "r": 50,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "sawmill",
+      "c": 66,
+      "r": 53,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "sawmill",
+      "c": 74,
+      "r": 42,
+      "hp": 100,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 10,
+        "stone": 4
+      }
+    },
+    {
+      "kind": "kennel",
+      "c": 62,
+      "r": 40,
+      "hp": 90,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 4,
+      "progress": 0.0,
+      "spent": {
+        "wood": 14,
+        "food": 6
+      }
+    },
+    {
+      "kind": "stable",
+      "c": 60,
+      "r": 49,
+      "hp": 100,
+      "cows": 0,
+      "horses": 3,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 18,
+        "food": 8,
+        "copper": 2
+      }
+    },
+    {
+      "kind": "factory_motor",
+      "c": 59,
+      "r": 49,
+      "hp": 160,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 2.423999999999998,
+      "spent": {
+        "wood": 20,
+        "iron": 8,
+        "copper": 4
+      }
+    },
+    {
+      "kind": "pen",
+      "c": 57,
+      "r": 41,
+      "hp": 90,
+      "cows": 4,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 16,
+        "food": 6
+      }
+    },
+    {
+      "kind": "factory_car",
+      "c": 58,
+      "r": 41,
+      "hp": 180,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 24,
+        "iron": 12,
+        "copper": 6
+      }
+    },
+    {
+      "kind": "factory_heli",
+      "c": 68,
+      "r": 41,
+      "hp": 200,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 16,
+        "iron": 20,
+        "copper": 12,
+        "silver": 3
+      }
+    },
+    {
+      "kind": "factory_plane",
+      "c": 68,
+      "r": 42,
+      "hp": 220,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 22.512000000000068,
+      "spent": {
+        "iron": 24,
+        "copper": 14,
+        "gold": 4,
+        "silver": 4
+      }
+    },
+    {
+      "kind": "station",
+      "c": 52,
+      "r": 45,
+      "hp": 200,
+      "cows": 0,
+      "horses": 0,
+      "dogs": 0,
+      "progress": 0.0,
+      "spent": {
+        "wood": 20,
+        "stone": 24,
+        "iron": 10
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "kind": "wood",
+      "c": 53,
+      "r": 56,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 56,
+      "r": 60,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 52,
+      "r": 30,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 51,
+      "r": 35,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 86,
+      "r": 34,
+      "amount": 4
+    },
+    {
+      "kind": "wood",
+      "c": 83,
+      "r": 44,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 55,
+      "r": 59,
+      "amount": 2
+    },
+    {
+      "kind": "wood",
+      "c": 45,
+      "r": 56,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 47,
+      "r": 30,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 41,
+      "r": 50,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 41,
+      "r": 44,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 56,
+      "r": 28,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 53,
+      "r": 35,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 35,
+      "r": 46,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 50,
+      "r": 35,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 81,
+      "r": 32,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 42,
+      "r": 46,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 49,
+      "r": 54,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 84,
+      "r": 40,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 44,
+      "r": 46,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 62,
+      "r": 31,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 81,
+      "r": 31,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 46,
+      "r": 54,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 47,
+      "r": 34,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 65,
+      "r": 62,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 84,
+      "r": 51,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 60,
+      "r": 30,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 57,
+      "r": 30,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 72,
+      "r": 50,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 41,
+      "r": 48,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 43,
+      "r": 46,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 70,
+      "r": 60,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 72,
+      "r": 28,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 86,
+      "r": 50,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 63,
+      "r": 58,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 52,
+      "r": 58,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 50,
+      "r": 57,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 49,
+      "r": 42,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 71,
+      "r": 59,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 82,
+      "r": 54,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 51,
+      "r": 31,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 80,
+      "r": 49,
+      "amount": 3
+    },
+    {
+      "kind": "stone",
+      "c": 72,
+      "r": 29,
+      "amount": 3
+    },
+    {
+      "kind": "stone",
+      "c": 76,
+      "r": 26,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 80,
+      "r": 51,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 78,
+      "r": 51,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 81,
+      "r": 54,
+      "amount": 4
+    },
+    {
+      "kind": "stone",
+      "c": 39,
+      "r": 50,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 88,
+      "r": 53,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 80,
+      "r": 30,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 67,
+      "r": 60,
+      "amount": 4
+    },
+    {
+      "kind": "copper",
+      "c": 64,
+      "r": 62,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 81,
+      "r": 29,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 50,
+      "r": 55,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 53,
+      "r": 53,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 74,
+      "r": 60,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 47,
+      "r": 41,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 79,
+      "r": 53,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 38,
+      "r": 46,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 37,
+      "r": 49,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 91,
+      "r": 49,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 78,
+      "r": 56,
+      "amount": 4
+    },
+    {
+      "kind": "copper",
+      "c": 58,
+      "r": 28,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 46,
+      "r": 33,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 71,
+      "r": 34,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 79,
+      "r": 28,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 77,
+      "r": 60,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 86,
+      "r": 52,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 86,
+      "r": 35,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 48,
+      "r": 37,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 74,
+      "r": 26,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 73,
+      "r": 32,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 55,
+      "r": 29,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 81,
+      "r": 30,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 70,
+      "r": 33,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 81,
+      "r": 53,
+      "amount": 5
+    },
+    {
+      "kind": "silver",
+      "c": 43,
+      "r": 54,
+      "amount": 5
+    },
+    {
+      "kind": "silver",
+      "c": 37,
+      "r": 46,
+      "amount": 5
+    },
+    {
+      "kind": "silver",
+      "c": 54,
+      "r": 46,
+      "amount": 5
+    },
+    {
+      "kind": "gold",
+      "c": 50,
+      "r": 29,
+      "amount": 5
+    },
+    {
+      "kind": "gold",
+      "c": 44,
+      "r": 32,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 98,
+      "r": 30,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 87,
+      "r": 7,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 118,
+      "r": 18,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 119,
+      "r": 0,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 92,
+      "r": 37,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 115,
+      "r": 10,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 111,
+      "r": 22,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 109,
+      "r": 37,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 90,
+      "r": 42,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 85,
+      "r": 18,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 115,
+      "r": 9,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 122,
+      "r": 38,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 122,
+      "r": 24,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 109,
+      "r": 39,
+      "amount": 5
+    },
+    {
+      "kind": "runestone",
+      "c": 99,
+      "r": 36,
+      "amount": 5
+    },
+    {
+      "kind": "runestone",
+      "c": 85,
+      "r": 25,
+      "amount": 5
+    },
+    {
+      "kind": "runestone",
+      "c": 91,
+      "r": 24,
+      "amount": 5
+    },
+    {
+      "kind": "runestone",
+      "c": 93,
+      "r": 7,
+      "amount": 5
+    },
+    {
+      "kind": "runestone",
+      "c": 87,
+      "r": 6,
+      "amount": 5
+    },
+    {
+      "kind": "runestone",
+      "c": 120,
+      "r": 26,
+      "amount": 5
+    },
+    {
+      "kind": "runestone",
+      "c": 92,
+      "r": 29,
+      "amount": 5
+    },
+    {
+      "kind": "runestone",
+      "c": 84,
+      "r": 17,
+      "amount": 5
+    },
+    {
+      "kind": "runestone",
+      "c": 97,
+      "r": 4,
+      "amount": 5
+    },
+    {
+      "kind": "runestone",
+      "c": 113,
+      "r": 28,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 62,
+      "r": 69,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 59,
+      "r": 75,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 70,
+      "r": 81,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 66,
+      "r": 82,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 47,
+      "r": 84,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 73,
+      "r": 67,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 57,
+      "r": 67,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 70,
+      "r": 76,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 70,
+      "r": 69,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 74,
+      "r": 77,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 54,
+      "r": 70,
+      "amount": 5
+    },
+    {
+      "kind": "obsidian",
+      "c": 61,
+      "r": 84,
+      "amount": 5
+    },
+    {
+      "kind": "magma_core",
+      "c": 59,
+      "r": 83,
+      "amount": 5
+    },
+    {
+      "kind": "magma_core",
+      "c": 71,
+      "r": 69,
+      "amount": 5
+    },
+    {
+      "kind": "magma_core",
+      "c": 82,
+      "r": 84,
+      "amount": 5
+    },
+    {
+      "kind": "magma_core",
+      "c": 60,
+      "r": 77,
+      "amount": 5
+    },
+    {
+      "kind": "magma_core",
+      "c": 75,
+      "r": 76,
+      "amount": 5
+    },
+    {
+      "kind": "magma_core",
+      "c": 63,
+      "r": 69,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 73,
+      "r": 73,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 56,
+      "r": 66,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 69,
+      "r": 73,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 74,
+      "r": 64,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 65,
+      "r": 69,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 60,
+      "r": 75,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 12,
+      "r": 38,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 56,
+      "r": 70,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 56,
+      "r": 63,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 64,
+      "r": 61,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 58,
+      "r": 74,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 55,
+      "r": 72,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 58,
+      "r": 78,
+      "amount": 5
+    },
+    {
+      "kind": "sulfur",
+      "c": 77,
+      "r": 69,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 66,
+      "r": 13,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 43,
+      "r": 6,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 45,
+      "r": 6,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 71,
+      "r": 7,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 76,
+      "r": 16,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 77,
+      "r": 15,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 57,
+      "r": 13,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 82,
+      "r": 6,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 72,
+      "r": 22,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 54,
+      "r": 27,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 50,
+      "r": 5,
+      "amount": 5
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 46,
+      "r": 8,
+      "amount": 5
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 58,
+      "r": 3,
+      "amount": 5
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 66,
+      "r": 15,
+      "amount": 5
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 59,
+      "r": 13,
+      "amount": 5
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 47,
+      "r": 7,
+      "amount": 5
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 48,
+      "r": 8,
+      "amount": 5
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 65,
+      "r": 10,
+      "amount": 5
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 64,
+      "r": 15,
+      "amount": 5
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 62,
+      "r": 11,
+      "amount": 5
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 70,
+      "r": 10,
+      "amount": 5
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 78,
+      "r": 5,
+      "amount": 5
+    },
+    {
+      "kind": "soul_essence",
+      "c": 18,
+      "r": 19,
+      "amount": 5
+    },
+    {
+      "kind": "soul_essence",
+      "c": 5,
+      "r": 33,
+      "amount": 5
+    },
+    {
+      "kind": "soul_essence",
+      "c": 33,
+      "r": 17,
+      "amount": 5
+    },
+    {
+      "kind": "soul_essence",
+      "c": 6,
+      "r": 23,
+      "amount": 5
+    },
+    {
+      "kind": "soul_essence",
+      "c": 18,
+      "r": 21,
+      "amount": 5
+    },
+    {
+      "kind": "soul_essence",
+      "c": 21,
+      "r": 11,
+      "amount": 5
+    },
+    {
+      "kind": "soul_essence",
+      "c": 38,
+      "r": 33,
+      "amount": 5
+    },
+    {
+      "kind": "soul_essence",
+      "c": 0,
+      "r": 4,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 41,
+      "r": 19,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 8,
+      "r": 31,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 28,
+      "r": 23,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 14,
+      "r": 33,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 9,
+      "r": 43,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 27,
+      "r": 36,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 16,
+      "r": 39,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 11,
+      "r": 25,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 29,
+      "r": 43,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 6,
+      "r": 14,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 37,
+      "r": 29,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 36,
+      "r": 40,
+      "amount": 1
+    },
+    {
+      "kind": "bone",
+      "c": 17,
+      "r": 25,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 19,
+      "r": 32,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 19,
+      "r": 16,
+      "amount": 5
+    },
+    {
+      "kind": "bone",
+      "c": 6,
+      "r": 4,
+      "amount": 5
+    },
+    {
+      "kind": "ectoplasm",
+      "c": 6,
+      "r": 30,
+      "amount": 5
+    },
+    {
+      "kind": "ectoplasm",
+      "c": 16,
+      "r": 13,
+      "amount": 5
+    },
+    {
+      "kind": "ectoplasm",
+      "c": 36,
+      "r": 34,
+      "amount": 5
+    },
+    {
+      "kind": "ectoplasm",
+      "c": 31,
+      "r": 36,
+      "amount": 5
+    },
+    {
+      "kind": "ectoplasm",
+      "c": 27,
+      "r": 33,
+      "amount": 5
+    },
+    {
+      "kind": "ectoplasm",
+      "c": 4,
+      "r": 6,
+      "amount": 5
+    },
+    {
+      "kind": "ectoplasm",
+      "c": 37,
+      "r": 30,
+      "amount": 5
+    },
+    {
+      "kind": "ectoplasm",
+      "c": 28,
+      "r": 29,
+      "amount": 5
+    },
+    {
+      "kind": "mana",
+      "c": 116,
+      "r": 34,
+      "amount": 4
+    },
+    {
+      "kind": "mana",
+      "c": 113,
+      "r": 24,
+      "amount": 4
+    },
+    {
+      "kind": "mana",
+      "c": 110,
+      "r": 21,
+      "amount": 4
+    },
+    {
+      "kind": "mana",
+      "c": 90,
+      "r": 29,
+      "amount": 4
+    },
+    {
+      "kind": "mana",
+      "c": 83,
+      "r": 14,
+      "amount": 4
+    },
+    {
+      "kind": "mana",
+      "c": 124,
+      "r": 4,
+      "amount": 4
+    },
+    {
+      "kind": "mana",
+      "c": 113,
+      "r": 14,
+      "amount": 4
+    },
+    {
+      "kind": "mana",
+      "c": 117,
+      "r": 7,
+      "amount": 4
+    },
+    {
+      "kind": "runestone",
+      "c": 109,
+      "r": 33,
+      "amount": 3
+    },
+    {
+      "kind": "runestone",
+      "c": 81,
+      "r": 20,
+      "amount": 3
+    },
+    {
+      "kind": "runestone",
+      "c": 122,
+      "r": 8,
+      "amount": 3
+    },
+    {
+      "kind": "runestone",
+      "c": 114,
+      "r": 20,
+      "amount": 3
+    },
+    {
+      "kind": "runestone",
+      "c": 98,
+      "r": 43,
+      "amount": 3
+    },
+    {
+      "kind": "runestone",
+      "c": 104,
+      "r": 18,
+      "amount": 3
+    },
+    {
+      "kind": "runestone",
+      "c": 97,
+      "r": 28,
+      "amount": 3
+    },
+    {
+      "kind": "runestone",
+      "c": 115,
+      "r": 15,
+      "amount": 3
+    },
+    {
+      "kind": "sulfur",
+      "c": 76,
+      "r": 77,
+      "amount": 4
+    },
+    {
+      "kind": "sulfur",
+      "c": 64,
+      "r": 67,
+      "amount": 4
+    },
+    {
+      "kind": "sulfur",
+      "c": 69,
+      "r": 69,
+      "amount": 4
+    },
+    {
+      "kind": "sulfur",
+      "c": 73,
+      "r": 63,
+      "amount": 4
+    },
+    {
+      "kind": "sulfur",
+      "c": 50,
+      "r": 67,
+      "amount": 4
+    },
+    {
+      "kind": "sulfur",
+      "c": 69,
+      "r": 79,
+      "amount": 4
+    },
+    {
+      "kind": "sulfur",
+      "c": 72,
+      "r": 66,
+      "amount": 4
+    },
+    {
+      "kind": "sulfur",
+      "c": 60,
+      "r": 83,
+      "amount": 4
+    },
+    {
+      "kind": "obsidian",
+      "c": 73,
+      "r": 81,
+      "amount": 3
+    },
+    {
+      "kind": "obsidian",
+      "c": 69,
+      "r": 65,
+      "amount": 3
+    },
+    {
+      "kind": "obsidian",
+      "c": 76,
+      "r": 75,
+      "amount": 3
+    },
+    {
+      "kind": "obsidian",
+      "c": 62,
+      "r": 70,
+      "amount": 3
+    },
+    {
+      "kind": "obsidian",
+      "c": 71,
+      "r": 79,
+      "amount": 3
+    },
+    {
+      "kind": "obsidian",
+      "c": 81,
+      "r": 77,
+      "amount": 3
+    },
+    {
+      "kind": "obsidian",
+      "c": 74,
+      "r": 83,
+      "amount": 3
+    },
+    {
+      "kind": "obsidian",
+      "c": 59,
+      "r": 79,
+      "amount": 3
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 53,
+      "r": 22,
+      "amount": 4
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 68,
+      "r": 5,
+      "amount": 4
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 51,
+      "r": 4,
+      "amount": 4
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 79,
+      "r": 3,
+      "amount": 4
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 54,
+      "r": 8,
+      "amount": 4
+    },
+    {
+      "kind": "ice_crystal",
+      "c": 75,
+      "r": 8,
+      "amount": 4
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 55,
+      "r": 19,
+      "amount": 3
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 72,
+      "r": 4,
+      "amount": 3
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 57,
+      "r": 10,
+      "amount": 3
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 63,
+      "r": 22,
+      "amount": 3
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 65,
+      "r": 15,
+      "amount": 3
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 69,
+      "r": 9,
+      "amount": 3
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 75,
+      "r": 21,
+      "amount": 3
+    },
+    {
+      "kind": "frozen_meat",
+      "c": 84,
+      "r": 6,
+      "amount": 3
+    },
+    {
+      "kind": "bone",
+      "c": 24,
+      "r": 14,
+      "amount": 4
+    },
+    {
+      "kind": "bone",
+      "c": 38,
+      "r": 25,
+      "amount": 4
+    },
+    {
+      "kind": "bone",
+      "c": 14,
+      "r": 22,
+      "amount": 4
+    },
+    {
+      "kind": "bone",
+      "c": 32,
+      "r": 22,
+      "amount": 4
+    },
+    {
+      "kind": "bone",
+      "c": 40,
+      "r": 5,
+      "amount": 4
+    },
+    {
+      "kind": "bone",
+      "c": 3,
+      "r": 1,
+      "amount": 4
+    },
+    {
+      "kind": "bone",
+      "c": 22,
+      "r": 38,
+      "amount": 4
+    },
+    {
+      "kind": "bone",
+      "c": 6,
+      "r": 40,
+      "amount": 4
+    },
+    {
+      "kind": "soul_essence",
+      "c": 18,
+      "r": 25,
+      "amount": 3
+    },
+    {
+      "kind": "soul_essence",
+      "c": 15,
+      "r": 27,
+      "amount": 3
+    },
+    {
+      "kind": "soul_essence",
+      "c": 20,
+      "r": 15,
+      "amount": 3
+    },
+    {
+      "kind": "soul_essence",
+      "c": 31,
+      "r": 24,
+      "amount": 3
+    },
+    {
+      "kind": "soul_essence",
+      "c": 27,
+      "r": 19,
+      "amount": 3
+    },
+    {
+      "kind": "soul_essence",
+      "c": 37,
+      "r": 39,
+      "amount": 3
+    },
+    {
+      "kind": "soul_essence",
+      "c": 40,
+      "r": 22,
+      "amount": 3
+    },
+    {
+      "kind": "soul_essence",
+      "c": 47,
+      "r": 25,
+      "amount": 3
+    },
+    {
+      "kind": "fruit",
+      "c": 105,
+      "r": 74,
+      "amount": 5
+    },
+    {
+      "kind": "fruit",
+      "c": 109,
+      "r": 68,
+      "amount": 5
+    },
+    {
+      "kind": "fruit",
+      "c": 109,
+      "r": 61,
+      "amount": 5
+    },
+    {
+      "kind": "fruit",
+      "c": 90,
+      "r": 80,
+      "amount": 5
+    },
+    {
+      "kind": "fruit",
+      "c": 93,
+      "r": 56,
+      "amount": 5
+    },
+    {
+      "kind": "fruit",
+      "c": 110,
+      "r": 60,
+      "amount": 5
+    },
+    {
+      "kind": "fruit",
+      "c": 97,
+      "r": 44,
+      "amount": 5
+    },
+    {
+      "kind": "fruit",
+      "c": 108,
+      "r": 68,
+      "amount": 5
+    },
+    {
+      "kind": "fruit",
+      "c": 123,
+      "r": 45,
+      "amount": 4
+    },
+    {
+      "kind": "fruit",
+      "c": 111,
+      "r": 51,
+      "amount": 4
+    },
+    {
+      "kind": "fruit",
+      "c": 114,
+      "r": 46,
+      "amount": 4
+    },
+    {
+      "kind": "fruit",
+      "c": 104,
+      "r": 68,
+      "amount": 4
+    },
+    {
+      "kind": "fruit",
+      "c": 114,
+      "r": 78,
+      "amount": 4
+    },
+    {
+      "kind": "fruit",
+      "c": 112,
+      "r": 72,
+      "amount": 4
+    },
+    {
+      "kind": "fruit",
+      "c": 78,
+      "r": 67,
+      "amount": 4
+    },
+    {
+      "kind": "wood",
+      "c": 16,
+      "r": 82,
+      "amount": 8
+    },
+    {
+      "kind": "herb",
+      "c": 32,
+      "r": 51,
+      "amount": 4
+    },
+    {
+      "kind": "herb",
+      "c": 18,
+      "r": 65,
+      "amount": 4
+    },
+    {
+      "kind": "herb",
+      "c": 15,
+      "r": 76,
+      "amount": 4
+    },
+    {
+      "kind": "herb",
+      "c": 11,
+      "r": 58,
+      "amount": 4
+    },
+    {
+      "kind": "herb",
+      "c": 9,
+      "r": 70,
+      "amount": 4
+    },
+    {
+      "kind": "herb",
+      "c": 17,
+      "r": 53,
+      "amount": 4
+    },
+    {
+      "kind": "herb",
+      "c": 20,
+      "r": 56,
+      "amount": 4
+    },
+    {
+      "kind": "herb",
+      "c": 33,
+      "r": 64,
+      "amount": 4
+    },
+    {
+      "kind": "stone",
+      "c": 88,
+      "r": 50,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 37,
+      "r": 48,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 48,
+      "r": 42,
+      "amount": 5
+    },
+    {
+      "kind": "silver",
+      "c": 83,
+      "r": 37,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 75,
+      "r": 26,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 52,
+      "r": 29,
+      "amount": 5
+    },
+    {
+      "kind": "silver",
+      "c": 84,
+      "r": 38,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 52,
+      "r": 34,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 39,
+      "r": 43,
+      "amount": 4
+    },
+    {
+      "kind": "wood",
+      "c": 82,
+      "r": 52,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 40,
+      "r": 45,
+      "amount": 3
+    },
+    {
+      "kind": "stone",
+      "c": 36,
+      "r": 48,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 48,
+      "r": 54,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 60,
+      "r": 57,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 82,
+      "r": 53,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 82,
+      "r": 32,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 43,
+      "r": 40,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 71,
+      "r": 28,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 54,
+      "r": 58,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 73,
+      "r": 28,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 48,
+      "r": 31,
+      "amount": 5
+    },
+    {
+      "kind": "gold",
+      "c": 76,
+      "r": 42,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 42,
+      "r": 52,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 71,
+      "r": 60,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 80,
+      "r": 46,
+      "amount": 5
+    },
+    {
+      "kind": "gold",
+      "c": 50,
+      "r": 33,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 78,
+      "r": 44,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 45,
+      "r": 47,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 44,
+      "r": 35,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 43,
+      "r": 51,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 82,
+      "r": 47,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 58,
+      "r": 55,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 44,
+      "r": 52,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 53,
+      "r": 54,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 85,
+      "r": 37,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 49,
+      "r": 48,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 45,
+      "r": 53,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 46,
+      "r": 56,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 65,
+      "r": 55,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 51,
+      "r": 34,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 45,
+      "r": 40,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 45,
+      "r": 48,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 62,
+      "r": 60,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 82,
+      "r": 58,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 86,
+      "r": 39,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 44,
+      "r": 47,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 52,
+      "r": 40,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 58,
+      "r": 27,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 87,
+      "r": 43,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 45,
+      "r": 55,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 74,
+      "r": 36,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 39,
+      "r": 47,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 76,
+      "r": 52,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 40,
+      "r": 43,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 54,
+      "r": 29,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 82,
+      "r": 55,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 80,
+      "r": 36,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 70,
+      "r": 32,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 40,
+      "r": 49,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 47,
+      "r": 32,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 84,
+      "r": 49,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 49,
+      "r": 47,
+      "amount": 5
+    },
+    {
+      "kind": "copper",
+      "c": 87,
+      "r": 51,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 83,
+      "r": 56,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 51,
+      "r": 29,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 61,
+      "r": 30,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 38,
+      "r": 45,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 49,
+      "r": 53,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 48,
+      "r": 47,
+      "amount": 5
+    },
+    {
+      "kind": "gold",
+      "c": 73,
+      "r": 55,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 74,
+      "r": 29,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 75,
+      "r": 61,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 45,
+      "r": 34,
+      "amount": 5
+    },
+    {
+      "kind": "gold",
+      "c": 84,
+      "r": 34,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 48,
+      "r": 48,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 51,
+      "r": 40,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 58,
+      "r": 32,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 64,
+      "r": 27,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 82,
+      "r": 33,
+      "amount": 5
+    },
+    {
+      "kind": "iron",
+      "c": 73,
+      "r": 27,
+      "amount": 5
+    },
+    {
+      "kind": "silver",
+      "c": 86,
+      "r": 45,
+      "amount": 5
+    },
+    {
+      "kind": "silver",
+      "c": 71,
+      "r": 53,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 46,
+      "r": 50,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 77,
+      "r": 44,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 76,
+      "r": 38,
+      "amount": 5
+    },
+    {
+      "kind": "silver",
+      "c": 39,
+      "r": 51,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 71,
+      "r": 42,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 61,
+      "r": 27,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 84,
+      "r": 50,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 80,
+      "r": 47,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 62,
+      "r": 55,
+      "amount": 5
+    },
+    {
+      "kind": "silver",
+      "c": 69,
+      "r": 31,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 49,
+      "r": 39,
+      "amount": 5
+    },
+    {
+      "kind": "silver",
+      "c": 85,
+      "r": 48,
+      "amount": 5
+    },
+    {
+      "kind": "stone",
+      "c": 78,
+      "r": 28,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 74,
+      "r": 45,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 58,
+      "r": 36,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 67,
+      "r": 36,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 75,
+      "r": 42,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 69,
+      "r": 62,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 58,
+      "r": 56,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 42,
+      "r": 54,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 52,
+      "r": 50,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 72,
+      "r": 47,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 75,
+      "r": 58,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 82,
+      "r": 46,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 79,
+      "r": 30,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 74,
+      "r": 44,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 64,
+      "r": 59,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 75,
+      "r": 33,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 81,
+      "r": 44,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 68,
+      "r": 56,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 42,
+      "r": 51,
+      "amount": 5
+    },
+    {
+      "kind": "wood",
+      "c": 63,
+      "r": 32,
+      "amount": 5
+    }
+  ],
+  "refugees": [
+    {
+      "name": "Tuấn",
+      "skill": "gunner",
+      "x": 2127.9974860101424,
+      "y": 1463.554345618176,
+      "hp": 50.0,
+      "xp": 530.6597600000874,
+      "elite": false,
+      "state": "settled",
+      "home": [
+        65,
+        43
+      ]
+    },
+    {
+      "name": "Thảo",
+      "skill": "gunner",
+      "x": 2128.0000035346325,
+      "y": 1380.1903500985109,
+      "hp": 50.0,
+      "xp": 537.4485200000863,
+      "elite": false,
+      "state": "settled",
+      "home": [
+        65,
+        45
+      ]
+    },
+    {
+      "name": "Hùng",
+      "skill": "gunner",
+      "x": 1991.565019955342,
+      "y": 1431.8428485949391,
+      "hp": 50.0,
+      "xp": 455.30000000000285,
+      "elite": false,
+      "state": "settled",
+      "home": [
+        63,
+        45
+      ]
+    },
+    {
+      "name": "Dũng",
+      "skill": "farmer",
+      "x": 1979.7922239602617,
+      "y": 1424.301056686361,
+      "hp": 50.0,
+      "xp": 784.7176000000616,
+      "elite": false,
+      "state": "settled",
+      "home": [
+        62,
+        43
+      ]
+    },
+    {
+      "name": "Khoa",
+      "skill": "gunner",
+      "x": 2038.4737896720578,
+      "y": 1365.3431689851152,
+      "hp": 44.0,
+      "xp": 422.0000000000025,
+      "elite": false,
+      "state": "settled",
+      "home": [
+        62,
+        43
+      ]
+    },
+    {
+      "name": "Bình",
+      "skill": "gunner",
+      "x": 2096.7030679016098,
+      "y": 1479.0065517781863,
+      "hp": 50.0,
+      "xp": 393.9000000000022,
+      "elite": false,
+      "state": "settled",
+      "home": [
+        65,
+        45
+      ]
+    },
+    {
+      "name": "Minh",
+      "skill": "medic",
+      "x": 2104.0,
+      "y": 1464.0,
+      "hp": 70.0,
+      "xp": 182.93196799999248,
+      "elite": true,
+      "state": "settled",
+      "home": [
+        65,
+        43
+      ]
+    },
+    {
+      "name": "Yến",
+      "skill": "gunner",
+      "x": 2128.0042749246827,
+      "y": 1414.632453617877,
+      "hp": 30.0,
+      "xp": 240.5000000000008,
+      "elite": false,
+      "state": "settled",
+      "home": [
+        63,
+        43
+      ]
+    },
+    {
+      "name": "Hoa",
+      "skill": "miner",
+      "x": 2095.2496402986735,
+      "y": 1493.9710989806247,
+      "hp": 30.0,
+      "xp": 261.64008000000166,
+      "elite": false,
+      "state": "settled",
+      "home": [
+        65,
+        45
+      ]
+    }
+  ]
+}
